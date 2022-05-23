@@ -1,1 +1,1 @@
-# this is a repository for exercise JavaScript Mouse and Keyboard eventListener exercise.
+# this is a repository for practising JavaScript Mouse and Keyboard eventListener exercise.
